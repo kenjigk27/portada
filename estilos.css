@@ -1,0 +1,28 @@
+#page{
+	background-color: darkgrey;
+}
+h3{
+	align-self: left;
+}
+#itac{
+	width: 90px;
+	height: 156px;
+}
+#chiapas{
+	width: 90px;
+	height: 146px;
+}
+p{
+	font-size: 18px;
+
+}
+#box{
+	margin-bottom: 2%;
+	margin-top: 2%;
+	margin-right: 6%;
+	margin-left: 6%;
+	background-color: white;
+	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.7);
+	padding: 2em;
+	height: 100%;
+}
